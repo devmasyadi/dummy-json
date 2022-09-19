@@ -1,0 +1,27 @@
+{
+    "isShowAds": true,
+    "isShowNative": true,
+    "isShowBanner": true,
+    "isShowInt": true,
+    "isShowRewards": true,
+    "adsBanner": "Admob",
+    "adsInter": "Admob",
+    "adsRewards": "Admob",
+    "isAutoRedirect": false,
+    "intervalInt": 1,
+    "title": "Higgs Domino Motion Speeder X8",
+    "packageName": "com.HiggsDominoNoKW.Grewal17SpeederX8",
+    "admobAppId": "ca-app-pub-6729746043797195~3830044198",
+    "admobBannerId": "",
+    "admobInterId": "",
+    "admobNativeId": "",
+    "admobOpenAppId": "",
+    "admobRewardId": "",
+    "isTestAds": false,
+    "unityAdsId": "4501269",
+    "urlRedirect": "https://play.google.com/store/apps/details?id=com.higgsdominojackpotjinjin.Grewal17baoguide",
+    "testDevices": [
+        "55D957382B50D7283282407964778657",
+        "CC3980C02792A2BC4D32CA4C91FCA934"
+    ]
+}
